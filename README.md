@@ -18,10 +18,14 @@ _This report gives us insight about our Annual Car Sales_
    2. Trend Analysis
    3. Comparative Analysis
 
+---
 ## Data Overview
-The dataset inclides following columns:
-   + Car ID: Unique Identifier for each car sold
-   + Gender: Gender of the Customer
-   + Dealer Region: Where the cars were Purchased
-   + Model: type of cars sold out
-   + 
+_The dataset inclides following columns:_
+   > + Car ID: Unique Identifier for each car sold
+   > + Gender: Gender of the Customer
+   > + Dealer Region: Where the cars were Purchased
+   > + Model: type of cars sold out
+   > + Annual Income: Income flow annually
+
+## Data Visualization 
+[To view the Power bi dashboard, click here](https://ibb.co/5XYgjg7w)
