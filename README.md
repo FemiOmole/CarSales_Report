@@ -19,6 +19,7 @@ _This report gives us insight about our Annual Car Sales_
    3. Comparative Analysis
 
 ---
+
 ## Data Overview
 _The dataset inclides following columns:_
    > + Car ID: Unique Identifier for each car sold
@@ -29,3 +30,5 @@ _The dataset inclides following columns:_
 
 ## Data Visualization 
 [To view the Power bi dashboard, click here](https://ibb.co/5XYgjg7w)
+
+## Dashboard Visuals
