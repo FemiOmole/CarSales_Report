@@ -35,6 +35,10 @@ _The dataset inclides following columns:_
 ![OLANREWAJU NEW](https://github.com/user-attachments/assets/bbd679c9-21c4-4278-b1ec-d44dc767b03f)
 
 
+## SQL
+---sql
+SELECT * FROM car_datasetTable
+---
 
 
 
