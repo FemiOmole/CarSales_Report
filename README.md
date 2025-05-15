@@ -36,11 +36,14 @@ _The dataset inclides following columns:_
 
 
 ## SQL
----sql
-SELECT * FROM car_datasetTable
----
+```sql
+SELECT * FROM car_dataset
+```
 
-
+## SQL
+```sql
+SELECT Dealer_Name, COUNT(*) AS Cars_Sold FROM car_dataset GROUP BY Dealer_Name ORDER BY Cars_Sold DESC
+```
 
 
 
