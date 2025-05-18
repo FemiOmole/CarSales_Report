@@ -42,8 +42,20 @@ SELECT * FROM car_dataset
 
 ## SQL
 ```sql
+SELECT DISTINCT model FROM car_dataset
+```
+
+## SQL
+```sql
+SELECT * FROM car_dataset WHERE Date = '01/02/2022'
+```
+
+## SQL
+```sql
 SELECT Dealer_Name, COUNT(*) AS Cars_Sold FROM car_dataset GROUP BY Dealer_Name ORDER BY Cars_Sold DESC
 ```
 
-
-
+## SQL
+```sql
+SELECT * FROM car_dataset WHERE "Annual Income" > 100000
+```
